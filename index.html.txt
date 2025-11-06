@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<h1> สวัสดีครับ ผมนาย ภูริวัฒน์ ธรรมชาติ </h1>
+	<p>นักศึกษาเเผนกเทคโนโลยีสารสนเทศ</p>
+
+	<h2> ผลงานของฉัน </h2>
+	<ul>
+	   <li><a href ="#">โปรเจคร์ที่1 </a><li>
+	   <li><a href ="#">โปรเจคร์ที่2 </a><li>
+	</ul>
+
+	<footer>ติดต่อ : dosddd707@gmail.com </footer>
+</body>
+</html>
